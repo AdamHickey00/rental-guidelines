@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Rental Guidelines
 
 You can use the [editor on GitHub](https://github.com/AdamHickey00/rental-guidelines/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
