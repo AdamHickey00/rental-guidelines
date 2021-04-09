@@ -32,6 +32,61 @@ Tenants are required to sign an estoppel agreement upon sale
 
 
 
+# **Qualification Standards & Application Process**
+
+**Thank you for your interest in renting one of our homes! Below is a detailed explanation of our application process as well as our standards for qualification.**
+
+## **Qualification Standards**
+
+We work with neighbors and other landlords in the area to maintain the quality of the neighborhood. We make sure that people do not use rental units for illegal activity. To that end, we have a thorough screening process. If you meet the criteria and are accepted, you will have the peace of mind of knowing that other renters in this area are being screened with equal care and, as a result, there may be a reduced risk of illegal activity occurring in the area. Please review our list of criteria and if you meet the criteria, please apply. Please note that we provide equal housing opportunity; we do not discriminate on the basis of race, color, religion, sex, handicap, national origin, or familial status. Applicants who do not meet minimum screening standards will not be approved.
+
+- **Applicant must have current photo identification  and a valid social security number.**
+
+    Driver’s license or other government issued photo identification is acceptable.
+
+- **Applicant's monthly household income must exceed three times the rent.**
+
+    All income must be from a verifiable source. Unverifiable income will not be considered. If the combination of your monthly personal debt, utility costs, and rent payments will exceed 40% of your monthly income before taxes, we will require a qualified cosigner on your rental agreement or an additional rent deposit of $800. If the combination exceeds 50% of your monthly income, your application will be denied.
+
+- **Applicants income must be independently verifiable.**
+
+    This includes the amount and stability of your income through sources such as pay stubs, employer/source contacts, and tax records. If you are self-employed, you will be required to submit a business license, tax records, bank records, or a list of client references.
+
+- **False information is grounds for denial.**
+
+    Your application will be denied if you misrepresent any information on the application. If misrepresentations are found after a rental agreement is signed, your rental agreement will be terminated immediately.
+
+- **Applicants must receive positive references from all previous landlords for the previous 5 years.**
+
+    You will be turned down if previous landlords report significant complaints such as repeated disturbance of the neighbors’ peace, reports of prostitution, drug dealing, or drug manufacturing, damage to the property beyond normal wear and tear, reports of violence or threats to landlords or neighbors, allowing persons not on the lease to reside on the premises, and failure to give proper notice when vacating the property. Also, you will be turned down if a previous landlord would be disinclined to rent to you again for any reason pertaining to lease violations by you, your pets, or others allowed on the property during your tenancy.
+
+- **Applicant** **may not have any evictions or unpaid judgments from previous landlords.**
+
+    If you have ever been through a court-ordered eviction or had any judgment against you for financial delinquency, your application will be denied. This restriction may be waived if there has not been more than one such incident, the circumstances can be justified, and you provide a qualified cosigner on your rental agreement.
+
+- **Applicant's rental history must be verified by unbiased sources.**
+
+    If you are related by blood or marriage to one of the previous landlords listed above, or your rental history does not include at least two previous landlords, we may require a qualified cosigner on your rental agreement (qualified cosigners must meet all applicant screening criteria). It is your responsibility to provide us with the information necessary to contact your past landlords. We reserve the right to deny your application if, after making a good faith error, we are unable to verify your rental history. If you owned—rather than rented— your previous home, you must furnish mortgage company references and proof of title ownership or transfer.
+
+- **Applicant must exhibit a responsible financial life.** **
+
+    Credit score must be a minimum of 600. Records showing accounts currently in collections are not acceptable. Overall, we are looking for current signs of financial responsibility.
+
+- **A background and credit check will be conducted on all applicants over 18. ****
+
+    Applicant’s background must exhibit a pattern of responsibility.
+
+- **Criminal convictions for certain types of crimes will result in denial of your application.**
+
+    Your application will be denied if, in the last 7 years, you have been convicted of any type of crime (including the manufacture or distribution of controlled substances) that would be considered a serious threat to real property or to other residents’ peaceful enjoyment.
+
+- **Applicant must be a non-smoker.**
+- **Occupancy is limited to 2 people per bedroom.**
+
+
+
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
