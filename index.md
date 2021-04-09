@@ -1,5 +1,3 @@
-## Minimum standards for tenant approval
-
 **Thank you for your interest in renting one of our homes! Below is a detailed explanation of our application process as well as our standards for qualification.**
 
 ## **Qualification Standards**
