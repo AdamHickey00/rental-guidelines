@@ -32,7 +32,7 @@ We work with neighbors and other landlords in the area to maintain the quality o
 
     If you are related by blood or marriage to one of the previous landlords listed above, or your rental history does not include at least two previous landlords, we may require a qualified cosigner on your rental agreement (qualified cosigners must meet all applicant screening criteria). It is your responsibility to provide us with the information necessary to contact your past landlords. We reserve the right to deny your application if, after making a good faith error, we are unable to verify your rental history. If you owned—rather than rented— your previous home, you must furnish mortgage company references and proof of title ownership or transfer.
 
-- **Applicant must exhibit a responsible financial life.** **
+- **Applicant must exhibit a responsible financial life.**
 
     Credit score must be a minimum of 600. Records showing accounts currently in collections are not acceptable. Overall, we are looking for current signs of financial responsibility.
 
@@ -59,7 +59,7 @@ After approval, if tenant will not be taking occupancy within 24 hours, a non-re
 
 After approval and before occupancy will be granted, you must: 
 
-- Supply all the required move-in funds, including the security deposit, first month’s rent, and any other additional deposits and fees,
-- Switch over all tenant paid utilities into your name,
-- Provide proof of renter's insurance of at least $100,000, and
-- Execute a lease that will be signed by all parties.
+- Supply all the required move-in funds, including the security deposit, first month’s rent, and any other additional deposits and fees
+- Switch over all tenant paid utilities into your name
+- Provide proof of renter's insurance of at least $100,000
+- Execute a lease that will be signed by all parties
